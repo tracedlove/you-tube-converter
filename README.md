@@ -32,7 +32,7 @@ Setup Instructions:
      ```
 
 2. **Run the Script**:
-   - Double-click the `converter.bat` file to launch the YouTube Video Converter Engine.
+   - Double-click the `you-tube converter.exe` file to launch the YouTube Video Converter Engine.
    - The script will automatically create necessary directories for logs, converted files, and history.
 
 3. **Choose an Option**:
